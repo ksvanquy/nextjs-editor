@@ -1,0 +1,13 @@
+.nextjs-editor {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 12px;
+  min-height: 200px;
+  outline: none;
+  font-size: 16px;
+  background: #fff;
+}
+.nextjs-editor:focus {
+  border-color: #0070f3;
+  box-shadow: 0 0 0 2px #0070f333;
+} 
